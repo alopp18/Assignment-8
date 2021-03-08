@@ -1,0 +1,45 @@
+---
+title: "Some things I learned this quarter"
+author: "Andrew Oppliger<br>alopp18@uw.edu"
+subtitle: "FISH 497"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+
+## About Me | Personal
+
+- Ohio
+- Homemade Mac and Cheese
+- Sarcastic Fringehead
+
+## About Me | Academic
+
+- The Ohio State University
+- Fisheries and Aquatic Sciences
+
+## About Me | Things I've missed during the pandemic
+
+1) Working in the office
+2) Happy hours
+3) Watching college football in a stadium
+
+# Data Science
+
+## Course Topics | 3 things I enjoyed learning about
+
+1) Learning an introduction to the world of Github
+2) Real world applications of Data Science (quest presentations)
+3) Shiny apps
+
+## Course topics | 3 things I'd like to learn more about
+
+1) Learn how to better utilize Github for my future endeavors 
+2) Develop R Markdown presentation skills
+3) Develop R Markdown publishing papers skills
+
+## {data-background=img/Background.png data-background-size=cover}
