@@ -42,4 +42,4 @@ knitr::opts_chunk$set(echo = FALSE)
 2) Develop R Markdown presentation skills
 3) Develop R Markdown publishing papers skills
 
-## {data-background=img/Background.png data-background-size=cover}
+## {data-background=png/Background.png data-background-size=cover}
